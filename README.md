@@ -7,6 +7,14 @@
 
 ------
 
+## 空板图片 | blank pcb picture
+
+![空板图片](pics/pcb.png)
+
+## 成品顶部图片 | pcb top picture
+
+![](pics/top.png)
+
 ## 电路参数 | parameters
 
 |        参数 parameter         | 值 value | 单位 unit |
@@ -20,7 +28,7 @@
 
 ## 物料表 | Bill of Materials
 
-[bom.md](./bom.md)
+[bom](./bom.md)
 
 ------
 
@@ -28,8 +36,7 @@
 
 [schematic](./schematic/MiniPc-pwr.pdf)
 
+## 制造用文件 | gerber and nc drill files
 
-
-
-
+[minipc-power-board](./minipc-power-board.zip)
 
