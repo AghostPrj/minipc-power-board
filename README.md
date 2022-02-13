@@ -6,6 +6,12 @@
 
 
 ------
+## 设计阶段视频 | the video of design
+[video](https://www.bilibili.com/video/BV1X34y1k7zU/)
+
+
+
+------
 
 ## 空板图片 | blank pcb picture
 
